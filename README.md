@@ -1,10 +1,12 @@
-Sense 2.1 — Desire HD
+Sense 2.1 - Desire HD
 
 «HTC Sense 2.1 emulator for modern Android devices»
 
 The emulator runs the original HTC Desire HD firmware with a minimal compatibility layer required for it to work.
 
 In simple terms, it works like having a second phone inside your Android device.
+
+<img src="IMG_20260916_124115_759.jpg" width="400">
 
 ---
 
