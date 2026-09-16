@@ -6,7 +6,7 @@ The emulator runs the original HTC Desire HD firmware with a minimal compatibili
 
 In simple terms, it works like having a second phone inside your Android device.
 
-<img src="IMG_20260916_124115_759.jpg" width="400">
+<img src="IMG_20260916_124115_759.jpg" width="300">
 
 ---
 
