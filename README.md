@@ -40,7 +40,7 @@ Hardware-accelerated rendering using the device's GPU.
 
 ---
 
-🎮 Installing Games
+  Installing Games
 
 1. Copy the game
 
